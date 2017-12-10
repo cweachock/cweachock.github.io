@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       Writing, Design, Plants, Art by Chris Weachock
+email:       cweachock@gmail.com
+author:      Chris Weachock
+description: "Home to a collection of my writings, artwork, Shopify stuff, and regenerative agriculture. Previously design and web for @mcuban, Rider for Bike and Build #BBSUS17."
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "http:cweachock.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
@@ -51,17 +51,17 @@ facebook_appid:
 facebook_comments_number: 10
 
 # Social icons
-github_username:
-reddit_username:
+github_username: cweachock
+reddit_username: 
 bitbucket_username:
 stackoverflow_id:
-twitter_username:
-skype_username:
-steam_nickname:
+twitter_username: 
+skype_username: chris.weachock
+steam_nickname: 
 google_plus_id:
-linkedin_username:
+linkedin_username: /christopher-weachock-031a8263/
 angellist_username:
-medium_id:
+medium_id: 
 bitcoin_url:
 paypal_url:
 flattr_button:
