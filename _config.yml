@@ -1,13 +1,17 @@
 # Site settings
-title:       Writing, Design, Plants, Art by Chris Weachock
+title:       👋 Mostly Shopify, plants, bikes & art  
 email:       cweachock@gmail.com
 author:      Chris Weachock
 description: "Home to a collection of my writings, artwork, Shopify stuff, and regenerative agriculture. Previously design and web for @mcuban, Rider for Bike and Build #BBSUS17."
-baseurl:     ""
-url:         "http:cweachock.github.io"
+baseurl:     "chrisweachock.com"
+url:         "https://www.cweachock.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
+ - work.md
+ - sketchbook.md
+ - paintings.md
+ - writing.md
  - contact.html
 
 # Google services
