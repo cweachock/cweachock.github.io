@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Chris Weachock
+title: About 
 permalink: /about/
 tags: about
 ---
