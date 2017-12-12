@@ -31,7 +31,7 @@ For about 9 months, I designed, animated, and created assets for Naked Pizza, wi
 ### 2014 - May 2017ish
 Over the next three years, I helped onboard companies with an amazingly talented and driven team: [Peter Vogt](http://petervogt.co/){:target="_blank"}, [Michael Johnstone](https://www.michaeljohnstone.us/){:target="_blank"}, [@aminkara](https://twitter.com/aminkara){:target="_blank"}, Ken Bonzon(rest in peace), [Rachel Kuhr](https://www.rachelkuhr.com/){:target="_blank"}, [Ryan Kline](https://www.linkedin.com/in/ryankline){:target="_blank"}, Kayla Ketelsen, Helen McDaniel, Bethany Peters, Matthew Shields, John Simon, and many others to provide support to over dozens of entrepreneurs across a wide array of industries. 
 
-
+![Hanna Lim and Chris Weachock with Lollaland at Trade Show](/images/hanna-lim-lollaland.jpg)
 
 I worked in a very fast paced environment, similar to how I imagine a start up might operate. I reported directly to Mark, sending weekly or bi-weekly progress updates while he would advise with our Business Development Manager and lead CTO in a hands on/off role. I helped execute digital marketing deliverables, branding/graphic design(logo designs, packaging etc), print work, ideating and problem solving to work through business problems and increase sales for various consumer products. 
 
