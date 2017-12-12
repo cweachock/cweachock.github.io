@@ -6,27 +6,27 @@ tags: about
 ---
 
 ## A Short Glimpse Into The Past/Present 
-But first, let me tell you that I’m currently doing freelance web development being my best [hipster] self in Denton Texas with a focus on [@shopify](https://www.shopify.com){:target="_blank"} and learning more about ecommerce. Sounds fun right? Previously, I worked for [@mcuban](https://twitter.com/mcuban){:target="_blank"} at [Mark Cuban Companies](http://markcubancompanies.com/){:target="_blank"} with a small team onboarding companies from the hit reality show [Shark Tank ](http://abc.go.com/shows/shark-tank){:target="_blank"} on [ABC](http://abc.go.com/){:target="_blank"}. 
+Currently, I am doing freelance web development with a focus on [@shopify](https://www.shopify.com){:target="_blank"} and learning more about ecommerce. Previously, I worked for [@mcuban](https://twitter.com/mcuban){:target="_blank"} at [Mark Cuban Companies](http://markcubancompanies.com/){:target="_blank"} with a small team onboarding companies from the hit reality show [Shark Tank ](http://abc.go.com/shows/shark-tank){:target="_blank"} on [ABC](http://abc.go.com/){:target="_blank"}. 
 
-On the side, I try to grow stuff. And no not weed (at least not yet). I’ve seen some success at growing plants that you can eat and constantly learn about new organic practices and standards like [regenerative agriculture](https://www.patagonia.com/blog/2017/09/join-us-the-journey-to-regenerative-organic-certification/){:target="_blank"}, [organic gardening](https://rodaleinstitute.org/){:target="_blank"}, and [hyrdoponic farming](https://modernfarmer.com/2017/05/is-hydro-organic-farming-organic/){:target="_blank"}.
+On the side, I try to grow stuff. No not weed (at least not yet) but I’ve seen some success at growing plants (ones that you eat) and consistently learn about new organic practices and standards like [regenerative agriculture](https://www.patagonia.com/blog/2017/09/join-us-the-journey-to-regenerative-organic-certification/){:target="_blank"}, [organic gardening](https://rodaleinstitute.org/){:target="_blank"}, and [hyrdoponic farming](https://modernfarmer.com/2017/05/is-hydro-organic-farming-organic/){:target="_blank"}.
 
 ![organic gardening harvest carrots and green tomatoes and swiss chard and kale ](/images/organic-gardening-harvest.jpg)
 
-Sometimes I even save my own urine—(soooo gross I know) **BUT** you can use it as a fertilizer because it contains some pretty cool elements like phosphorous, magnesium, and nitrogen. I wonder how different American Agriculture and sewege collection would be...in addition to saving water from upcycling it. Check out this [Scientific American article](https://www.scientificamerican.com/article/human-urine-is-an-effective-fertilizer/){:target="_blank"} to see I'm not joking. 
+Sometimes, I even save my own urine—soooo gross I know. **BUT** you can use it as a natural fertilizer because it contains some pretty cool elements like phosphorous, magnesium, and nitrogen which plants need to convert for food/energy. Check out this [Scientific American article](https://www.scientificamerican.com/article/human-urine-is-an-effective-fertilizer/){:target="_blank"} to see I'm not joking. 
 
 ![laying planter boxes for Promise of Peace Community Garden 2015 in East Dallas ](/images/Promise-of-Peace-beginning-Garden-2015.png)
 
-I’m also really big into community projects. I volunteered at [Promise of Peace community garden](http://promiseofpeace.us/){:target="_blank"} for 2 years outside of my day job learning about organic gardening, designed a community newsletter that was distributed to [a neighborhood](http://www.littleforesthills.com/){:target="_blank"} of 1,000 plus residents in east Dallas, volunteered at a handful of [conferences](http://circlesco.com/){:target="_blank"} and [biked across the country](https://classic.bikeandbuild.org/rider/9274){:target="_blank"} in the summer of 2017.
+I’m also really big on community projects. Outside of my day job, I volunteered at [Promise of Peace Community Gardens](http://promiseofpeace.us/){:target="_blank"} for 2 years learning about organic gardening, designed a community newsletter that was distributed to [a neighborhood](http://www.littleforesthills.com/){:target="_blank"} of 1,000 plus residents, volunteered at a handful of [conferences](http://circlesco.com/){:target="_blank"} and [biked across the country](https://classic.bikeandbuild.org/rider/9274){:target="_blank"} in the summer of 2017. 
 
-![Chris Weachock with Bike and Build in Death Valley ](/images/Chris-Weachock-Bike-and-Build-death-valley-Sunrise.jpg)
+![Chris Weachock with Bike and Build in Death Valley](/images/Chris-Weachock-Bike-and-Build-death-valley-Sunrise.jpg)
 
 ### Rewind to 2013
-After graduating in 2012 from Texas A&M University with a BS in [Visualization Sciences](http://viz.arch.tamu.edu/){:target="_blank"} where I studied computer animation, art, and design, I was fast tracked back to my hometown — Dallas — where I took an early job at [Naked Pizza](https://nkdpizza.com/){:target="_blank"} invested in by Mark Cuban. 
+After graduating in 2012 from Texas A&M University with a BS in [Visualization Sciences](http://viz.arch.tamu.edu/){:target="_blank"} where I studied computer animation, art, and design, I was called back to my hometown — Dallas — where I took an early job at [Naked Pizza](https://nkdpizza.com/){:target="_blank"} invested in by Mark Cuban. 
+
+<iframe src="https://player.vimeo.com/video/117209917" width="100%" height="380" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ### 2013 - 2014
-For about 9 months, I designed, animated, and created assets for Naked Pizza, with one team in NOLA and one in Dallas. After the company got sold, I was onboarded on to work for [Mark Cuban Companies](http://markcubancompanies.com/){:target="_blank"}. 
-
-<iframe src="https://player.vimeo.com/video/117209917" width="100%" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+For about 9 months, I designed, animated, and created assets for [Naked Pizza](https://nkdpizza.com/){:target="_blank"} , with one team in NOLA and one in Dallas. After the company got sold, I was onboarded on to work for [Mark Cuban Companies](http://markcubancompanies.com/){:target="_blank"}. 
 
 ### 2014 - May 2017ish
 Over the next three years, I helped onboard companies with an amazingly talented and driven team: [Peter Vogt](http://petervogt.co/){:target="_blank"}, [Michael Johnstone](https://www.michaeljohnstone.us/){:target="_blank"}, [@aminkara](https://twitter.com/aminkara){:target="_blank"}, Ken Bonzon(rest in peace), [Rachel Kuhr](https://www.rachelkuhr.com/){:target="_blank"}, [Ryan Kline](https://www.linkedin.com/in/ryankline){:target="_blank"}, Kayla Ketelsen, Helen McDaniel, Bethany Peters, Matthew Shields, John Simon, and many others to provide support to over dozens of entrepreneurs across a wide array of industries. 
