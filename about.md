@@ -14,7 +14,7 @@ Sometimes I even save my own urine—(soooo gross I know) **BUT** you can use it
 
 I’m also really big into community projects. I volunteered at [Promise of Peace community garden](http://promiseofpeace.us/){:target="_blank"} for 2 years outside of my day job learning about organic gardening, designed a community newsletter that was distributed to [a neighborhood](http://www.littleforesthills.com/){:target="_blank"} of 1,000 plus residents in east Dallas, volunteered at a handful of [conferences](http://circlesco.com/){:target="_blank"} and [biked across the country](https://classic.bikeandbuild.org/rider/9274){:target="_blank"} in the summer of 2017.
 
-![Chris Weachock at Bike and Build](/images/sunscreen-face-pic)
+![Chris Weachock at Bike and Build](/images/sunscreen-face-pic.jpg)
 
 ### Rewind to 2013
 After graduating in 2012 from Texas A&M University with a BS in [Visualization Sciences](http://viz.arch.tamu.edu/){:target="_blank"} where I studied computer animation, art, and design, I was fast tracked back to my hometown — Dallas — where I took an early job at [Naked Pizza](https://nkdpizza.com/){:target="_blank"} invested in by Mark Cuban. 
