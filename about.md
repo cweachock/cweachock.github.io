@@ -10,7 +10,7 @@ But first, let me tell you that I’m currently doing freelance web development 
 
 On the side, I try to grow stuff. And no not weed (at least not yet). I’ve seen some success at growing plants that you can eat and constantly learn about new organic practices and standards like [regenerative agriculture](https://www.patagonia.com/blog/2017/09/join-us-the-journey-to-regenerative-organic-certification/){:target="_blank"}, [organic gardening](https://rodaleinstitute.org/){:target="_blank"}, and [hyrdoponic farming](https://modernfarmer.com/2017/05/is-hydro-organic-farming-organic/){:target="_blank"}.
 
-
+![organic gardening harvest carrots and green tomatoes and swiss chard and kale ](/images/organic-gardening-harvest.jpg)
 
 Sometimes I even save my own urine—(soooo gross I know) **BUT** you can use it as a fertilizer because it contains some pretty cool elements like phosphorous, magnesium, and nitrogen. I wonder how different American Agriculture and sewege collection would be...in addition to saving water from upcycling it. Check out this [Scientific American article](https://www.scientificamerican.com/article/human-urine-is-an-effective-fertilizer/){:target="_blank"} to see I'm not joking. 
 
