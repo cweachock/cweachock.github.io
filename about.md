@@ -10,13 +10,15 @@ But first, let me tell you that I’m currently doing freelance web development 
 
 On the side, I try to grow stuff. And no not weed (at least not yet). I’ve seen some success at growing plants that you can eat and constantly learn about new organic practices and standards like [regenerative agriculture](https://www.patagonia.com/blog/2017/09/join-us-the-journey-to-regenerative-organic-certification/){:target="_blank"}, [organic gardening](https://rodaleinstitute.org/){:target="_blank"}, and [hyrdoponic farming](https://modernfarmer.com/2017/05/is-hydro-organic-farming-organic/){:target="_blank"}.
 
-![laying planter boxes for Promise of Peace Community Garden 2015 in East Dallas](/images/Promise-of-Peace-beginning-Garden-2015.png)
+
 
 Sometimes I even save my own urine—(soooo gross I know) **BUT** you can use it as a fertilizer because it contains some pretty cool elements like phosphorous, magnesium, and nitrogen. I wonder how different American Agriculture and sewege collection would be...in addition to saving water from upcycling it. Check out this [Scientific American article](https://www.scientificamerican.com/article/human-urine-is-an-effective-fertilizer/){:target="_blank"} to see I'm not joking. 
 
+![laying planter boxes for Promise of Peace Community Garden 2015 in East Dallas ](/images/Promise-of-Peace-beginning-Garden-2015.png)
+
 I’m also really big into community projects. I volunteered at [Promise of Peace community garden](http://promiseofpeace.us/){:target="_blank"} for 2 years outside of my day job learning about organic gardening, designed a community newsletter that was distributed to [a neighborhood](http://www.littleforesthills.com/){:target="_blank"} of 1,000 plus residents in east Dallas, volunteered at a handful of [conferences](http://circlesco.com/){:target="_blank"} and [biked across the country](https://classic.bikeandbuild.org/rider/9274){:target="_blank"} in the summer of 2017.
 
-![Chris Weachock at Bike and Build](/images/sunscreen-face-pic.jpg)
+![Chris Weachock with Bike and Build in Death Valley ](/images/Chris-Weachock-Bike-and-Build-death-valley-Sunrise.jpg)
 
 ### Rewind to 2013
 After graduating in 2012 from Texas A&M University with a BS in [Visualization Sciences](http://viz.arch.tamu.edu/){:target="_blank"} where I studied computer animation, art, and design, I was fast tracked back to my hometown — Dallas — where I took an early job at [Naked Pizza](https://nkdpizza.com/){:target="_blank"} invested in by Mark Cuban. 
