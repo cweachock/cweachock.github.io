@@ -26,6 +26,8 @@ After graduating in 2012 from Texas A&M University with a BS in [Visualization S
 ### 2013 - 2014
 For about 9 months, I designed, animated, and created assets for Naked Pizza, with one team in NOLA and one in Dallas. After the company got sold, I was onboarded on to work for [Mark Cuban Companies](http://markcubancompanies.com/){:target="_blank"}. 
 
+<iframe src="https://player.vimeo.com/video/117209917" width="100%" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 ### 2014 - May 2017ish
 Over the next three years, I helped onboard companies with an amazingly talented and driven team: [Peter Vogt](http://petervogt.co/){:target="_blank"}, [Michael Johnstone](https://www.michaeljohnstone.us/){:target="_blank"}, [@aminkara](https://twitter.com/aminkara){:target="_blank"}, Ken Bonzon(rest in peace), [Rachel Kuhr](https://www.rachelkuhr.com/){:target="_blank"}, [Ryan Kline](https://www.linkedin.com/in/ryankline){:target="_blank"}, Kayla Ketelsen, Helen McDaniel, Bethany Peters, Matthew Shields, John Simon, and many others to provide support to over dozens of entrepreneurs across a wide array of industries. 
 
