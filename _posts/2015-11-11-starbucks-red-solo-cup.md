@@ -1,13 +1,11 @@
 ---
 layout: post
 title: Starbucks' Solo Red Cup
-description: "Why Starbucks' 2015 Holiday Cups are a Win for the big coffee giant. "
+description: Why Starbucks' 2015 Holiday Cups are a Win for the big coffee giant.
 category: articles
 tags:
 date: 2015-11-11
 
-image: 
-        feature: Starbucks-Header-Red-Cup.jpg
 
 ---
 
@@ -19,10 +17,8 @@ Starbucks knew just what they were getting into before they chose to set sail on
 
 Over the years, they have become quite good at creating "festive" inspirational designs that are not overtly sensitive to any one culture or belief. Doing a quick Google search on Starbucks Christmas cups, and you will find most of them are filled with beautifully crafted symbols and illustrations. From 2011-2014, Starbucks has done a fantastic job bringing about a style that is festive and fun.
 
-<figure>
-	<img src="/images/starbucks-red-holiday-cups-over-time.jpg">
-	<figcaption>From Elegant to Empty</figcaption>
-</figure>
+<img src="/images/starbucks-red-holiday-cups-over-time.jpg">
+
 
 For example, the elegant curves of a fox, or a simple person singing, arranged with minimal shapes and colors is quite pleasing to look at. Simple in it’s nature, but not overly complicated. However, it’s not surprising that such a change in a regimented style might be shocking or jolting to some people compared to the imagery that came before. The emptiness of a red cup adorning a proud logo holding your coffee is so far removed from the usual that people aren’t giving it a chance. In a culture so saturated with images and icons of Christmas, the Holidays, and “tis the season” sayings every five seconds, that we often forget just what it personally means to each of us.
 

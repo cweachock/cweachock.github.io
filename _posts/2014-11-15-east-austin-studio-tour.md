@@ -3,12 +3,8 @@ layout: post
 title: East Austin Studio Tour 2014
 description: "East Austin Studio Tour with Createscape Coworking: booze, food, art, and more art"
 category: articles
-tags: [east austin studio tour, austin texas, art, createscape coworking, austin coworking, paintings, east austin studio 384, texas, wayne thiebaud,]
+tags: 
 date: 2014-11-15
-
-image: 
-        feature: east-post-2014.jpg
-
 ---
 
 If you’re traveling to Austin in the next couple weekends you should attend the East Austin Studio Tour from November 15th-23rd and come check out my paintings! 
@@ -24,21 +20,16 @@ and [myself](http://www.chrisweachock.com/).
 
 I am exhibiting four works of art. Two master copies and two personal works. The master copies come from an American painter named Wayne Thiebaud, 
 
-<figure>
 
-	<img src="/images/Paintings-Candy-Counter-Master-Copy-Post.jpg">
-	<figcaption>Wayne Thiebaud Candy Counter Master Copy</figcaption>
-</figure>
+<img src="/images/Paintings-Candy-Counter-Master-Copy-Post.jpg">
+<center style="font-size:.5em;"><figcaption>Wayne Thiebaud Candy Counter Master Copy</figcaption></center>
 
 
 whose work was most widely known in the 1960's and lumped together alongside other famous POP artists like Andy Warhol and Jean-michel Basquiat. 
 Thiebaud's paintings are bright and colorful, usually depicting commonplace objects like pies, lipsticks, paint cans, ice cream cones, and gumball machines.
 
-<figure>
-
-	<img src="/images/Paintings-Study-Three-Machines-Wayne-Thiebaud-2012@2x.png">
-	<figcaption>Wayne Thiebaud Three Machines Master Copy</figcaption>
-</figure>
+<img src="/images/Paintings-Study-Three-Machines-Wayne-Thiebaud-2012@2x.png">
+<center style="font-size:.5em;"><figcaption>Wayne Thiebaud Three Machines Master Copy</figcaption></center>
 
 
 Pretty random bunch right? So come check it out! 
