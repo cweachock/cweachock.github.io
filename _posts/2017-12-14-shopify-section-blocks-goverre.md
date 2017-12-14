@@ -15,14 +15,18 @@ They wanted something that was easily editable from the [Shopify](https://www.sh
 
 Turns out Shopify has an excellent tool with their new sections called “[section blocks](https://www.shopify.com/partners/blog/shopify-section-block)”. Using section blocks, you can easily loop a set attributes and different offers set using the schema. 
 
+### Creating a new Section 
 Using Shopify’s liquid editor, I first created a section called inventory-listing.liquid (or whatever you want to call it). The template and CSS grids are handled
 with the free [Boundless theme](https://themes.shopify.com/themes/boundless/styles/vibrant) designed and developed by [Shopify](https://www.shopify.com/?ref=chris-weachock-design). And the page is protected by the app [Locksmith](https://apps.shopify.com/locksmith). Which turned out to accomplish the job quite well. 
 
 Elements I added to edit are title, sub title, product title, product image, and availability. 
 
+### Define html and schema elements within html. 
 Here’s the markup for html: 
 
 {% gist d13f5f2c15efe5e39d166995a60d0522 %}
 
+Once your html is set you can build out your schema which will be the settings in the admin where the user types in data, picks the image and sets product availability. See below:
 
+{% gist 7c75387a5790c6fd9c7ce9cbbb05c860 %}
 
