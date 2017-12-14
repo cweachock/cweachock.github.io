@@ -12,8 +12,6 @@ On the side, I try to grow stuff. No not weed (at least not yet) but I’ve seen
 
 ![organic gardening harvest carrots and green tomatoes and swiss chard and kale ](/images/organic-gardening-harvest.jpg)
 
-Sometimes, I even save my own urine—soooo gross I know. **BUT** you can use it as a natural fertilizer because it contains some pretty cool elements like phosphorous, magnesium, and nitrogen which plants need to convert for food/energy. Check out this [Scientific American article](https://www.scientificamerican.com/article/human-urine-is-an-effective-fertilizer/){:target="_blank"} to see I'm not joking. 
-
 ![laying planter boxes for Promise of Peace Community Garden 2015 in East Dallas ](/images/Promise-of-Peace-beginning-Garden-2015.png)
 
 I’m also really big on community projects. Outside of my day job, I volunteered at [Promise of Peace Community Gardens](http://promiseofpeace.us/){:target="_blank"} for 2 years learning about organic gardening, designed a community newsletter that was distributed to [a neighborhood](http://www.littleforesthills.com/){:target="_blank"} of 1,000 plus residents, volunteered at a handful of [conferences](http://circlesco.com/){:target="_blank"} and [biked across the country](https://classic.bikeandbuild.org/rider/9274){:target="_blank"} in the summer of 2017. 
