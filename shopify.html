@@ -7,9 +7,8 @@ permalink: /shopify/
 
 <div class="home">
     <div class="posts">
-    {%for tag in site.tags %}
       {% for post in paginator.posts %}
-      {% if post.tags contains shopify %}
+      {% for post in site.tags.shopify %}
         <div class="post py3">
           <p class="post-meta">{{ post.date | date: site.date_format }}</p>
           <a href="{{ post.url | prepend: site.baseurl }}" class="post-link"><h3 class="h1 post-title">{{ post.title }}</h3></a>
@@ -21,7 +20,6 @@ permalink: /shopify/
             {% endif %}
           </span>
         </div>
-        {% endif %}
       {% endfor %}
       {%endfor%}
     </div>
