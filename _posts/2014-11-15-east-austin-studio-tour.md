@@ -1,9 +1,9 @@
 ---
 layout: post
 title: East Austin Studio Tour 2014
-description: "East Austin Studio Tour with Createscape Coworking: booze, food, art, and more art"
+summary: "East Austin Studio Tour with Createscape Coworking: booze, food, art, and more art"
 category: articles
-tags: 
+tags: art
 date: 2014-11-15
 ---
 

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Starbucks' Solo Red Cup
-description: Why Starbucks' 2015 Holiday Cups are a Win for the big coffee giant.
+summary: Why Starbucks' 2015 Holiday Cups are a Win for the big coffee giant.
 category: articles
-tags:
+tags: branding
 date: 2015-11-11
 
 

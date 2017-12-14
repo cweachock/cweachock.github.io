@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Bites of Bravery Chomped, Chewed, and Processed
-description: How to Be Brave In a World Full of Fear
+summary: How to Be Brave In a World Full of Fear
 category: articles
-tags: 
+tags: courage
 date: 2015-01-09
 
 
