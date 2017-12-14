@@ -9,7 +9,7 @@ date_format: "%b %-d, %Y"
 header_pages:
  - about.md
  - sketchbook.md
- - shopify.html
+ - shopify.md
 
 # Google services
 google_verification:
