@@ -11,7 +11,7 @@ A while ago the [Founders](https://goverre.com/pages/our-story) of [Goverre](htt
 
 ![Goverre Inventory Section Listing Block](/images/Goverre--Custom-Invetory-Listing-Page-Screenshot-Using-Shopify-Section-Blocks.png)
 
-Something that's easily editable from the [Shopify](https://www.shopify.com/?ref=chris-weachock-design) admin show product pictures, select and show product availability, and indicate the title UPC number. In addition, they wanted it to be password protected. 
+They wanted something that was easily editable from the [Shopify](https://www.shopify.com/?ref=chris-weachock-design) admin to show product pictures, select and show product availability, and indicate the title/UPC value. In addition, they wanted it to be password protected. 
 
 Turns out Shopify has an excellent tool with their new sections called “[section blocks](https://www.shopify.com/partners/blog/shopify-section-block)”. Using section blocks, you can easily loop a set attributes and different offers set using the schema. 
 
