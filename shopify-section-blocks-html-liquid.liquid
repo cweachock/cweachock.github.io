@@ -1,0 +1,25 @@
+<!––These are headings to indicate different sections-->
+<center><h1>{{ section.settings.section-heading }}</h1></center>
+  <center><h5>{{ section.settings.section-subheading }}</h5></center>
+<!––Begin the product grid collection-->
+<div class="grid collection-grid grid--uniform grid--no-gutters" style="margin-top:-50px;">
+<!––loop through the blocks in each section-->
+{% for block in section.blocks %}
+<!––here we are creating a grid item for each section with a one-quarter size or about 25% of the page or container––>
+  <div class="grid__item medium-up--one-quarter">
+<!––if the user adds an image set it here––>
+    {% if block.settings.image %}
+   <span class="image-wrapper">
+     <img class="product-item__image" src="{{ block.settings.image | img_url: '1024x1024' }}"></span>
+    <div style="margin-top:-50px;">
+<!––Set the product title––>
+<center><h4><strong>{{block.settings.product-title}}</strong></h4></center>
+<!–– here we are checking the product availability (in stock or not) using a select drop down––>
+    {% if block.settings.availability == 'product-available' %}<center><em>available</em></center>{% endif %}
+    {% if block.settings.availability == 'product-unavailable' %}<center><em>unavailable</em></center>{% endif %}
+    {%endif%}
+<!–– end the if statement––>
+    </div>
+    </div>
+{% endfor %}  
+<!–– end the for loop––>
