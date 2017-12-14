@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Using Shopify's Section Blocks 
+title: Using Section Blocks for Inventory Listing 
 summary: How to use Shopify's section blocks to create a private inventory listing page for sales reps
 category: articles
 tags: shopify
