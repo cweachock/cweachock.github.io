@@ -11,7 +11,7 @@ layout: page
 permalink: sketchbook/index.html
 title: My Sketchbook
 description: I usually have one or a couple sketchbooks going. Here are some snap shots. Enjoy!   
-tags: sketchbook
+categories: sketchbook
 
 
 ---
