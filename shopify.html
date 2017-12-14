@@ -7,6 +7,7 @@ permalink: /shopify/
 
 <div class="home">
     <div class="posts">
+    {%for tag in site.tags %}
       {% for post in paginator.posts %}
       {% if post.tags contains shopify %}
         <div class="post py3">
@@ -22,6 +23,7 @@ permalink: /shopify/
         </div>
         {% endif %}
       {% endfor %}
+      {%endfor%}
     </div>
 
     {% include pagination.html %}
