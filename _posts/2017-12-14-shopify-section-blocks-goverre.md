@@ -22,17 +22,17 @@ Elements I added to edit are title, sub title, product title, product image, and
 
 Here’s the markup for html: 
 
-{% highlight html %}
-//These are headings to indicate different sections//
+{% highlight liquid %}
+\\These are headings to indicate different sections\\
 <center><h1>{{ section.settings.section-heading }}</h1></center>
   <center><h5>{{ section.settings.section-subheading }}</h5></center>
-//Begin the product grid collection//
+\\Begin the product grid collection\\
 <div class="grid collection-grid grid--uniform grid--no-gutters" style="margin-top:-50px;">
-<!–– loop through the blocks in each section––>
+//loop through the blocks in each section
 {% for block in section.blocks %}
-<!–– here we are creating a grid item for each section with a one-quarter size or about 25% of the page or container––>
+//here we are creating a grid item for each section with a one-quarter size or about 25% of the page or container––>
   <div class="grid__item medium-up--one-quarter">
-<!–– if the user adds an image set it here––>
+//if the user adds an image set it here––>
     {% if block.settings.image %}
    <span class="image-wrapper">
      <img class="product-item__image" src="{{ block.settings.image | img_url: '1024x1024' }}"></span>
