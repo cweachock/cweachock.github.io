@@ -22,7 +22,7 @@ Elements I added to edit are title, sub title, product title, product image, and
 
 Here’s the markup for html: 
 
-{% gist 7e1d5f3 %}
+{% gist d13f5f2c15efe5e39d166995a60d0522 %}
 
 
 
