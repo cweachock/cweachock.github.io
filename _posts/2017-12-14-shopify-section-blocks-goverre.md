@@ -26,7 +26,9 @@ Here’s the markup for html:
 
 {% gist d13f5f2c15efe5e39d166995a60d0522 %}
 
+### Create the schema settings 
 Once your html is set you can build out your schema which will be the settings in the admin where the user types in data, picks the image and sets product availability. See below:
 
 {% gist 7c75387a5790c6fd9c7ce9cbbb05c860 %}
 
+Read more about [Shopify sections](https://www.shopify.com/partners/blog/shopify-section-block) for a full explanation! 
