@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Sketchbook
-summary: a collection of sketches over the years (2011ish - present) 
 permalink: /sketchbook/
 category: sketchbook
 tags: sketchbook
