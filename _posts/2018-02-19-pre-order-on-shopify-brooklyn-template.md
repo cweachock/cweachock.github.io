@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Case Study: How create a product for pre-ordering
-summary: In this case study I how to modify Shopify's Brooklyn template to create a pre-order AJAX template   
+summary: In this case study I breakdown how to modify Shopify's Brooklyn template to create a pre-order AJAX template   
 category: articles
 tags: shopify
 date: 2018-02-19
