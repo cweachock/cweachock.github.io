@@ -53,7 +53,7 @@ Because the template already was built off of [Shopify’s Timber framework](htt
 
 Originally, I created a page for the product variants using the site’s internal grid system and [cart.js](https://cartjs.org/). However, as issues presented themselves with promise chaining (something I don’t yet understand) and how actual orders were being received by Shopify and the place in which they were being ordered proved to be difficult. After doing some research, I built the function to pre-order using an onclick event which triggered an [AJAX call](https://help.shopify.com/themes/development/getting-started/using-ajax-api) to open a javascript popup indicating a product was added to the cart. 
 
-![AJAX add to cart modal](/case-studies/Pronto-Concepts-Added-To-Cart-AJAX.png) 
+![AJAX add to cart modal](/case-studies/pronto-concepts/Pronto-Concepts-Added-To-Cart-AJAX.png) 
 
 ### Small UX changes/modifications
 
