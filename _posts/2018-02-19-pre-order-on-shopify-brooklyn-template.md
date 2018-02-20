@@ -17,7 +17,7 @@ From concept to creation, I helped the transition his site from Squarespace to a
 
 ### Context, Challenge, and Process
 
-Most modern day shopping carts are dynamic. To start, I helped narrow down and choose a skeleton template that had a dynamic cart to build off of that brought together a mobile mindset then customized it collaboratively working with another developer refining user experience.. The challenge was to make something that wasn’t too complicated but functional and resonated well making the product the focal point. In this case, Shopify’s(https://www.shopify.com/?ref=chris-weachock-design&utm_content=psite&utm_medium=website&utm_source=chrisweachock.com) well designed [Brooklyn theme](https://themes.shopify.com/themes/brooklyn/styles/classic) provided much of the flexibility and mobile first mindset that allowed his product to shine much like a modern technology product would sell.
+Most modern day shopping carts are dynamic. To start, I helped narrow down and choose a skeleton template that had a dynamic cart to build off of that brought together a mobile mindset then customized it collaboratively working with another developer refining user experience.. The challenge was to make something that wasn’t too complicated but functional and resonated well making the product the focal point. In this case, [Shopify’s](https://www.shopify.com/?ref=chris-weachock-design&utm_content=psite&utm_medium=website&utm_source=chrisweachock.com) well designed [Brooklyn theme](https://themes.shopify.com/themes/brooklyn/styles/classic) provided much of the flexibility and mobile first mindset that allowed his product to shine much like a modern technology product would sell.
 
 ![Shopify Brooklyn Theme](/case-studies/pronto-concepts/Case_Study_Pronto_Concepts_Brooklyn_Theme_Foundation.png)
 ![Pronto Concepts Product Section](/case-studies/pronto-concepts/Case_Study_Pronto_Concepts_Home_Page_Product_Section.png)
@@ -41,14 +41,15 @@ The product page was set up to emulate a modern technology product with a tradit
 ![Google Spreadsheet for organization and collaboration](/case-studies/pronto-concepts/Case_Study_Pronto_Concepts_Pronto_Bev_Product_Page_Above_Fold_Variant_Selection.png) 
 
 
-Much of the foundation for the product page was built with sections. These were then referenced in the theme.liquid file and dynamically shown with control flow tags. Each product ([The ProntoBev](https://prontoconcepts.com/products/prontobev-wine-chiller) and [ProntoAer](https://prontoconcepts.com/products/prontoaer-wine-aerator) had it’s own page redesign. So they had to be completely refactored. Initially I did a rough first pass then it was handed off. 
+Much of the foundation for the product page was built with sections. These were then referenced in the theme.liquid file and dynamically shown with control flow tags. 
+
+![Google Spreadsheet for organization and collaboration](/case-studies/pronto-concepts/Case_Study_Pronto_Concepts_Pronto_Bev_Liquid_Sections_Screenshot.png) 
+
+Each product ([The ProntoBev](https://prontoconcepts.com/products/prontobev-wine-chiller) and [ProntoAer](https://prontoconcepts.com/products/prontoaer-wine-aerator) had it’s own page redesign. So they had to be completely refactored. Initially I did a rough first pass then it was handed off. 
 
 ### Building out the Pre-order implementation section
 
 Because the template already was built off of [Shopify’s Timber framework](https://shopify.github.io/Timber/), the site allowed for a [dynamic AJAX add to cart](https://help.shopify.com/themes/development/getting-started/using-ajax-api). When someone adds a product to their shopping cart, it triggers a drawer to open (from the side or wherever) so they can stay on the same page and continue shopping. This is where the structure of the product variants comes into play. 
-
-![Google Spreadsheet for organization and collaboration](/case-studies/pronto-concepts/Case_Study_Pronto_Concepts_Pronto_Bev_Liquid_Sections_Screenshot.png) 
-
 
 Originally, I created a page for the product variants using the site’s internal grid system and [cart.js](https://cartjs.org/). However, as issues presented themselves with promise chaining (something I don’t yet understand) and how actual orders were being received by Shopify and the place in which they were being ordered proved to be difficult. After doing some research, I built the function to pre-order using an onclick event which triggered an [AJAX call](https://help.shopify.com/themes/development/getting-started/using-ajax-api) to open a javascript popup indicating a product was added to the cart. 
 
