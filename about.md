@@ -15,7 +15,7 @@ On the side, I sketch, bike, dabble in botony, and learn more about personal int
 
 ![laying planter boxes for Promise of Peace Community Garden 2015 in East Dallas ](/images/Promise-of-Peace-beginning-Garden-2015.png)
 
-I’m also really big on community projects. I volunteered at [Promise of Peace Community Gardens](http://promiseofpeace.us/){:target="_blank"} for 2 years learning about organic gardening, designed a community newsletter that was distributed to [a neighborhood](http://www.littleforesthills.com/){:target="_blank"} of 1,000 plus residents, volunteered at a handful of [conferences](http://circlesco.com/){:target="_blank"} and [biked across the country](https://classic.bikeandbuild.org/rider/9274){:target="_blank"} in the summer of 2017. 
+I’m also really big on community projects. I volunteered at [Promise of Peace Community Gardens](http://promiseofpeace.us/){:target="_blank"} for 2 years learning about organic gardening, designed a community newsletter that was distributed to [a neighborhood](http://www.littleforesthills.com/){:target="_blank"} of 1,000 plus residents, volunteered at a handful of [conferences](http://circlesco.com/){:target="_blank"} and [biked across the country](https://bikeandbuild.org){:target="_blank"} in the summer of 2017. 
 
 ![Chris Weachock with Bike and Build in Death Valley](/images/Chris-Weachock-Bike-and-Build-death-valley-Sunrise.jpg)
 
