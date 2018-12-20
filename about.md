@@ -9,13 +9,13 @@ tags: about
 Currently, I am doing front-end web development for [The North Face](https://www.thenorthface.com){:target="_blank"}. Previously, I worked for [@mcuban](https://twitter.com/mcuban){:target="_blank"} at [Mark Cuban Companies](http://markcubancompanies.com/){:target="_blank"} with a small team onboarding companies from the hit reality show [Shark Tank ](http://abc.go.com/shows/shark-tank){:target="_blank"} on [ABC](http://abc.go.com/){:target="_blank"}. 
 
 ### Interests
-On the side, I try to grow stuff. No not weed (at least not yet) but I’ve seen some success at growing plants (ones that you eat) and consistently learn about new organic practices and standards like [regenerative agriculture](https://www.patagonia.com/blog/2017/09/join-us-the-journey-to-regenerative-organic-certification/){:target="_blank"}, [organic gardening](https://rodaleinstitute.org/){:target="_blank"}, and [hyrdoponic farming](https://modernfarmer.com/2017/05/is-hydro-organic-farming-organic/){:target="_blank"}.
+On the side, I sketch, bike, dabble in botony, and learn more about personal interests. For the past couple years I focused on learning more about American agriculture. I’ve seen (some) success at growing plants (ones that you eat and not eat) and consistently learn about new organic practices and standards like [regenerative agriculture](https://www.patagonia.com/blog/2017/09/join-us-the-journey-to-regenerative-organic-certification/){:target="_blank"}, [organic gardening](https://rodaleinstitute.org/){:target="_blank"}, and [hyrdoponic farming](https://modernfarmer.com/2017/05/is-hydro-organic-farming-organic/){:target="_blank"}.
 
 ![organic gardening harvest carrots and green tomatoes and swiss chard and kale ](/images/organic-gardening-harvest.jpg)
 
 ![laying planter boxes for Promise of Peace Community Garden 2015 in East Dallas ](/images/Promise-of-Peace-beginning-Garden-2015.png)
 
-I’m also really big on community projects. Outside of my day job, I volunteered at [Promise of Peace Community Gardens](http://promiseofpeace.us/){:target="_blank"} for 2 years learning about organic gardening, designed a community newsletter that was distributed to [a neighborhood](http://www.littleforesthills.com/){:target="_blank"} of 1,000 plus residents, volunteered at a handful of [conferences](http://circlesco.com/){:target="_blank"} and [biked across the country](https://classic.bikeandbuild.org/rider/9274){:target="_blank"} in the summer of 2017. 
+I’m also really big on community projects. I volunteered at [Promise of Peace Community Gardens](http://promiseofpeace.us/){:target="_blank"} for 2 years learning about organic gardening, designed a community newsletter that was distributed to [a neighborhood](http://www.littleforesthills.com/){:target="_blank"} of 1,000 plus residents, volunteered at a handful of [conferences](http://circlesco.com/){:target="_blank"} and [biked across the country](https://classic.bikeandbuild.org/rider/9274){:target="_blank"} in the summer of 2017. 
 
 ![Chris Weachock with Bike and Build in Death Valley](/images/Chris-Weachock-Bike-and-Build-death-valley-Sunrise.jpg)
 
