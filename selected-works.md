@@ -24,3 +24,6 @@ the form length in height to help increase click-through and conversion rates. [
 
 ### Visual Design
 While working at Mark Cuban Companies I was responsible for visual design, marketing deliverables and everything in between. Early on, I was involved with graphic design, new branding initiatives, ads, typography, and packaging concepts. [Here](https://chrisweachock.com/visual-design/) are a few samples from various companies that showcase the breadth of my work. 
+
+### Animation 
+In addition to visual design, I always enjoy learning about animation. I got the opportunity to do some animation for a couple kickstarters and love incorporating it into the web as well. View some samples [here](https://chrisweachock.com/animation/) 
