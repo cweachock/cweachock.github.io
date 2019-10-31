@@ -5,7 +5,7 @@ permalink: /selected-works/
 ---
 
 
-**Thank you for considering me!** Below is a selection of some of my most recent work randing from development to design. I have provided some short descriptions for each, but happy to answer any questions or go into details for every item listed. Enjoy!
+**Thank you for considering me!** Below is a selection of some recent and old work ranging from development to design. I have provided short descriptions for each, but happy to answer any questions or go into details for every item listed. Enjoy!
 
 ## Development 
 ### User Testing
