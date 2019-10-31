@@ -16,5 +16,10 @@ permalink: /animation/
 
 <figure class="image">
   <img src="/images/Power-Practical-Kickstarter-Animation-holds-9-charges.gif" alt="Power Practical Kickstarter animation alternate">
-  <figcaption>Power Practical final Kickstarter animation test</figcaption>
+  <figcaption>Power Practical style test for benefits</figcaption>
+</figure>
+
+<figure class="image">
+  <img src="/images/Power-Practical-Kickstarter-Animation-iPhone.gif" alt="Power Practical Kickstarter animation alternate">
+  <figcaption>Power Practical style test for emotions (iPhone)</figcaption>
 </figure>
