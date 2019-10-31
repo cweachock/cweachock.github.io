@@ -7,6 +7,16 @@ abbr {
   cursor: help;
 }
 
+figure{
+  text-align:center;
+}
+
+figure figcaption{
+  font-size: .75rem;
+  padding-top:.5em;
+  opacity: .5;
+}
+
 p {
   color: #333;
   line-height: 1.5;
