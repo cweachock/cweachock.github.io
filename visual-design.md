@@ -21,7 +21,7 @@ permalink: /visual-design/
 </figure>
 
 <figure>
-  <img src="/images/Dude-Products-Dude-Wipes-Ad-Concept.jpg" alt="Advertising concept for Dude Wipes">
+  <img src="/images/Dude-Products-Dude-Wipes-Ad-Concept.png" alt="Advertising concept for Dude Wipes">
   <figcaption>Advertising concept for Dude Wipes</figcaption>
 </figure>
 
@@ -31,12 +31,12 @@ permalink: /visual-design/
 </figure>
 
 <figure>
-  <img src="/images/Power-Practical-Style-Frames.jpg" alt="Power Practical Style Frame Concept">
+  <img src="/images/Power-Practical-Style-Frames.png" alt="Power Practical Style Frame Concept">
   <figcaption>Power Practical Style Frame Concept for Kickstarter</figcaption>
 </figure>
 
 <figure>
-  <img src="/images/Power-Practical-Style-Frames-alt.jpg" alt="Power Practical Style Frame Concept">
+  <img src="/images/Power-Practical-Style-Frames-alt.png" alt="Power Practical Style Frame Concept">
   <figcaption>Power Practical Style Frame Concept for Kickstarter alternate</figcaption>
 </figure>
 
@@ -56,7 +56,7 @@ permalink: /visual-design/
 </figure>
 
 <figure>
-  <img src="/images/QFlex_Logo_Tagline_Color_360x.jpg" alt="Q-Flex Accupressure logo design">
+  <img src="/images/QFlex_Logo_Tagline_Color_360x.png" alt="Q-Flex Accupressure logo design">
   <figcaption>Q-Flex Accupressure logo design</figcaption>
 </figure>
 
@@ -71,7 +71,7 @@ permalink: /visual-design/
 </figure>
 
 <figure>
-  <img src="/images/gameface-photoshop-mockup.jpg" alt="Photoshop mockup for Gameface with flames">
+  <img src="/images/gameface-photoshop-mockup.png" alt="Photoshop mockup for Gameface with flames">
   <figcaption>Photoshop social media image for Gameface for 4th of July promo</figcaption>
 </figure>
 
