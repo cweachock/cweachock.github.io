@@ -4,9 +4,6 @@ title: Selected Works
 permalink: /selected-works/
 ---
 
-
-**Thank you for considering me!** Below is a selection of some recent and old work ranging from development to design. I have provided short descriptions for each, but happy to answer any questions or go into details for every item listed. Enjoy!
-
 ## Development 
 ### User Testing
 - **Checkout optimization**: In this AB test, we tried to simplify the shipping fields and shorten 
