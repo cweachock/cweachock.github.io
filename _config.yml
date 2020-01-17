@@ -2,13 +2,13 @@
 title:       👋 Hi, I'm Chris Weachock ☮ ❤ 🚲 🌱 🤓 🌈 🎨
 email:       cweachock@gmail.com
 author:      Chris Weachock
-description: "Home to a collection of my writings, artwork, Shopify stuff, and regenerative agriculture. Previously design and web for @mcuban, Rider for Bike and Build #BBSUS17."
+description: "I am a front-end web developer, designer, plant enthusiast, biker, and everything in between. Previously design and web for @mcuban, Rider for Bike and Build #BBSUS17."
 baseurl:     
 url:         
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
- - shopify.html
+ - selected-works.md
  - sketchbook.md
 
 # Google services
