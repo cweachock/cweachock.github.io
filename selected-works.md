@@ -24,3 +24,6 @@ While working at Mark Cuban Companies I was responsible for visual design, marke
 
 ### Animation 
 In addition to visual design, I always enjoy learning about animation. I got the opportunity to do some animation for a couple kickstarters and love incorporating it into the web as well. View some samples [here](https://chrisweachock.com/animation/) 
+
+### For Fun 
+- Designed and implemented [Tic Tac Toe game](https://chrisweachock.com/tic-tac-toe/) using simple markup and 🍦 Javascript
